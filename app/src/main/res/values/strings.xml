@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">To-do list</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="lorem_ipsum">lorem_ipsum</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title"><b> TO - DO LIST </b></string>
+    <string name="activity1">1) </string>
+    <string name="activity2">2) </string>
+    <string name="activity3">3) </string>
+    <string name="task"><i>to do task</i></string>
+    <string name="delete">delete</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="edit">Edit</string>
+    <string name="add">+Add New Note</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="tick">tick</string>
+    <string name="dark"> Dark Mode</string>
+</resources>
